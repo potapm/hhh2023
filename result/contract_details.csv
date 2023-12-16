@@ -1,0 +1,344 @@
+contract_id,start_date,deadline_date,geo_place,tags
+CGN-20230531,2023-08-15,2023-12-31,"провинция Хубэй, Хуангань округ Чун",construction
+CGN-202211140006-N2,,,,
+CGN-202301310002,,,"Китайская Народная Республика, Гуанчжоу, Лутэнь, городской округ, Шаньси",nuclear power
+CGN-202305150006-N1,,,"Янцзы, Гуандун, Китай","nuclear power, electronics_supply_installation"
+CGN-202304240004-N2,,,"Хуанъюань, округ Уидон, штат Вайтун","nuclear power, electronics_supply_installation"
+CGN-202204240004-N2,,,"Хиросима, Япония","construction, nuclear power"
+CGN-20230731_12345,,,"Шэньчжэнь, Гуандун, Китай",
+CGN-202211110003-N1,2024-03-28,2024-03-28,"Гуанси, Гуандун, Чжэцзян","construction, energy_not_nuclear, nuclear power, materials_supplies"
+CGN-202211230004-N1,,,"Гуандун, Хуанъюань, округ Уидон, штат Вайтун","construction, nuclear power, electronics_supply_installation"
+CGN-202210280003,,,Guangdong,"construction, equipment_supply_installation"
+CGN-20230620002,,,"Шаньдун, Китай",electronics_supply_installation
+CGN-202301180009,,,"Тибетский автономный район, район Али, округ Тир","construction, energy_not_nuclear, materials_supplies, equipment_supply_installation"
+CGN-202210240004-N2,,,"провинция Хубэй, в коммуне Дуби, префектура,""Вэньчуань""и Дупи",
+CGN-20230116003,,,"Шаньдун, Китай","nuclear power, electronics_supply_installation"
+CGN-CGN,,,,construction
+CGN-202306270009-N1,2023-07-31,,"Шаньдун, Китай",
+CGN-20230307003,2023-11-30,,"Янцзы, провинция Гуандун","nuclear power, equipment_supply_installation"
+CGN-20221226006,,,"Хиросима, округ Хуанган, Хубэй",
+CGN-202211160004-N1,,,провинция Шаньдун,nuclear power
+CGN-202303150014,2023-04-12,,Шэньчжэнь,"construction, nuclear power, electronics_supply_installation"
+CGN-202307001-N1,,,"Фуцзянь, Гуандун, Чжэцзян, Шаньдун",
+CGN-20221021001,,,,"nuclear power, electronics_supply_installation"
+CGN-202212160004-N2,,,"China, Hubei Province, Chongqing District, Wuhan Prefecture, Wan County, Dujiang Village, Dupu Township, Wenchuan, Tianmen Mountain, Dujiang Village, Dujiang Village, Guizhou, Xiaogan County, Xiaolan Town, Wannan, Wufeng County, Hainan Island, Huaxi Town, Yuzhong, Shazixi County, Shennongjia Forestry Bureau, Yibin City, Mianyang City, Wulong County, Emeishan Mountains, Chengdu Plateau, Ya'an Prefecture, Ziyang City, Luzhi County, Qionglai County, Nanchong City, Deyang City, Meishan County, Bazhong City, Neijiang City, Leshan City, Suining City, Mianyang City, Pengshou County, Pengshui County, Wushan County, Liangping County, Jintao County, Guang'an City, Wudang Shan County, Shizhu County, Daying County, Guangyuan City, Anzhong County, Maoxian County, Yibin City, Longquanyi County, Baoxi County, Beibei District, Yibin City, Pengshan County, Yibin City, Guangnan County, Guoyu County, Zigong City, Zhangjiashan County, Zitong County, Mianyang City, Qingchuan County, Meishan City, Guanghan City, Xikou County, Jinniu County, Yiliang County, Ziyang City, Mianyang City, Qu County, Zigong City, Meishan City, Guang'an City, Wenxien County, Wuhou District, Guanghan City, Xuy",
+CGN-20230329008,2025-10-31,,"China, Shandong Province",electronics_supply_installation
+CGN-20230609001-N1,,,"Шаньдун, КНR","nuclear power, electronics_supply_installation"
+CGN-20221115003,,,Гонконгский автономный округ,equipment_supply_installation
+CGN-20230522004,,,"Хунань, муниципалитет Чжоу",
+CGN-202212020007,,,"Янцзы, Гуандун, Китай","construction, energy_not_nuclear, nuclear power, electronics_supply_installation, materials_supplies"
+CGN-202211140008,,,,"construction, nuclear power"
+CGN-20221024002,,,"Шаньдун, Китай",
+CGN-202211140005-N1,,2025-09-15,"Гуандун, Китай","construction, electronics_supply_installation"
+CGN-202305170003,,,Ляонин,equipment_supply_installation
+CGN-202209280003-N1,2022-09-28,,"Автономный район Гуанси-Шань, Китайская Народная Республика","nuclear power, electronics_supply_installation"
+CGN-202211030001-N1,,,"Шаньдун, округ Хуанъюань, Вайтун","nuclear power, equipment_supply_installation"
+CGN-20230406009,,,провинция Шаньдун,"construction, nuclear power, electronics_supply_installation, equipment_supply_installation"
+CGN-202208230002-N1,,,"Синьцзян-Уйгурский автономный район, Алтайский район, Гимуна","construction, electronics_supply_installation"
+CGN-20220110002,,,Фуцзянь,"nuclear power, equipment_supply_installation"
+CGN-20221207003-N1,,,провинция Цзянсу; муниципалитет Су; округ Гусу,
+CGN-20221109005-N2,,,Гуандун,"nuclear power, electronics_supply_installation"
+CGN-202305040004-N2,2023-05-10,,"Порт-о-Пренсе, Китай",equipment_supply_installation
+CGN-20230627009,,,"Шаньдун, Китай","materials_supplies, equipment_supply_installation, research_design_works"
+CGN-20220927005,2023-04-30,,"Янцзы, Гуандун, Китай",construction
+CGN-202307110004,2023-08-09,,"Гуандун, Китай","construction, energy_not_nuclear, electronics_supply_installation"
+CGN-20230627005,2023-07-31,,"Пекин, Тойота",
+CGN-20230329003,,,Шаньдун,nuclear power
+CGN-202302020001-N1,,,,
+CGN-202210110004-N2,,,"Китайская Народная Республика, Хубэй, Чун, округ Вэньчуань",construction
+CGN-202211240004-N1,,,Гуандун,
+CGN-20230118005,2023-01-18,,Шаньдун,"construction, nuclear power, electronics_supply_installation"
+CGN-202307310002,,2023-12-30,"китайская провинция Хубэй, район около горы Тяньмэнь","construction, energy_not_nuclear"
+CGN-20230310004,,,"Фуцзянь, Хубэй, округ Чун","construction, nuclear power, electronics_supply_installation, materials_supplies, equipment_supply_installation"
+CGN-20230531003,2023-08-01,2023-08-01,"Автономный район Гуанси-Маньчжур, муниципалитет Чжунцзян, южный порт",
+CGN-202210110007,2022-10-11,2025-09-30,район Порт-о-де-Гонконг,electronics_supply_installation
+CGN-202301060003,,,"район Гранд-Ан, провинция Гиллинг, Китай",electronics_supply_installation
+CGN-202306150009,2023-06-15,2026-06-30,"Гуандун, Чжэцзян",energy_not_nuclear
+CGN-20230705009,,2023-10-20,"Синьцзян-Уйгурский автономный район и Тэгу, округ Лоуп","construction, energy_not_nuclear"
+CGN-20230529002,2023-05-29,,"Shēngzhèn, Guǎndūn, China","energy_not_nuclear, electronics_supply_installation"
+CGN-202306080013,,,,
+CGN-20230328002-N1,2023-03-28,,Гуандун,nuclear power
+CGN-202304030007-N2,2023-04-03,2025-12-30,"Шэньчжэнь, провинция Гуандун","nuclear power, electronics_supply_installation"
+CGN-20230119003,2023-06-30,,,
+CGN-20221227001,2023-03-01,2028-02-29,"Вэньчжоу, Чжэцзян","nuclear power, other_services"
+CGN-20221110001,2023-09-30,2023-09-30,Чжэцзян,energy_not_nuclear
+CGN-20230419004-N2,2023-05-31,2025-05-31,провинция Шаньдун,"energy_not_nuclear, electronics_supply_installation"
+CGN-202212070003,2023-02-01,2023-05-30,"провинция Цзянсу, муниципалитет Су, округ Гусу",electronics_supply_installation
+CGN-20230529005,,,"Цзиньцзян, округ Цинго, провинция Хэйлунцзян",
+CGN-20230619001,2023-09-01,2028-08-31,"Вэньчжоу, Чжэцзян","energy_not_nuclear, other_services"
+CGN-2024,2023-01-01,2024-12-31,"Китай, Цзянсу, Аньхой, Ганьсу, Нинься, Цзюси, Хубэй, Шанха́й, Чунцин, Сычуа́н, Тибе́т, Цинха́й, Гуáндун, Хайна́нь, Гуйчуáо, Джили́н, Фудзя́нь, Цзянxí, Хуна́нь, Хэбэй, Пеки́н, Тяньцзи́нь",
+CGN-20230629001,,,Гуандун,"nuclear power, electronics_supply_installation"
+CGN-20221227003,2023-02-01,2023-05-20,"префектура Чусунь, провинция Юньнань, Китай","construction, energy_not_nuclear, electronics_supply_installation"
+CGN-202211160008,,,,
+CGN-20221017005,,,Гуандун,electronics_supply_installation
+CGN-20221129002,2023-02-01,2026-12-31,"округ Ваннань, провинция Чжэцзян",energy_not_nuclear
+CGN-202304030007,,,"Шэньчжэнь, провинция Гуандун","nuclear power, electronics_supply_installation"
+CGN-202306140009,2023-06-14,"2025-07-15, 2026-05-15",провинция Шаньдун,"nuclear power, electronics_supply_installation"
+CGN-202302020001,2023-02-02,,провинция Шаньдун,"electronics_supply_installation, equipment_supply_installation"
+CGN-20230420005,2023-04-20,2027-05-31,"Гуандун, Чжэцзян","nuclear power, electronics_supply_installation"
+CGN-202303210002,2023-05-15,2025-05-14,"Китайская территория, район Тайпинс-2","construction, energy_not_nuclear"
+CGN-20230518002-N1,2023-05-18,2026-01-31,провинция Шаньдун,"energy_not_nuclear, other_services"
+CGN-202304240020,2023-05-25,2023-09-10,"префектура Сычуань, муниципалитет Чжоучжоу, префектура Гуань","construction, energy_not_nuclear, electronics_supply_installation"
+CGN-20221018001-N1,,,Гуандун,"nuclear power, materials_supplies"
+CGN-202304190005-N1,2023-04-19,,провинция Шаньдун,"electronics_supply_installation, equipment_supply_installation"
+CGN-202212080010,2023-05-10,2023-08-10,"Синьцзян-Уйгурский автономный округ Та-Сити, округ Торри",
+CGN-20230117005,2023-02-15,2023-04-30,"Тибетский автономный район, район Али, округ Тир","construction, energy_not_nuclear"
+CGN-202306070009-N1,2023-06-07,,"Гуандун, Китай","energy_not_nuclear, electronics_supply_installation"
+CGN-202307040028,2023-07-04,,провинция Гуандун,"energy_not_nuclear, electronics_supply_installation"
+CGN-20230505001,2023-06-10,2023-09-30,"провинция Юньнань, город Юйцзи, округ Яньцзян-хани","construction, energy_not_nuclear, electronics_supply_installation"
+CGN-202305230002-N1,,,провинция Фуцзянь,"energy_not_nuclear, electronics_supply_installation"
+CGN-20230105003,2023-03-30,,"Гран-Ан, провинция Джилин","energy_not_nuclear, electronics_supply_installation"
+CGN-202303150009-N1,,,"Янцзы, провинция Гуандун","nuclear power, electronics_supply_installation"
+CGN-202305310007,2023-06-30,2025-06-30,провинция Шаньдун,"nuclear power, electronics_supply_installation"
+CGN-202303010003,2023-03-01,2025-02-28,Гуандун,"nuclear power, electronics_supply_installation"
+CGN-20230317004,2023-03-17,2024-11-30,Гуандун,"nuclear power, materials_supplies"
+CGN-20221130005,,,"Янцзы, провинция Гуандун",electronics_supply_installation
+CGN-20221018002,,,"База в заливе Гранд-Авто, Шэньчжэнь","nuclear power, electronics_supply_installation"
+CGN-20230518007,2023-05-18,,"Гуандун, Шэньчжэнь","nuclear power, materials_supplies"
+CGN-202211240005,,,"город Нинде, Фуцзянь","construction, nuclear power"
+CGN-20230116005,,,провинция Фуцзянь,"nuclear power, electronics_supply_installation"
+CGN-202303280007,2023-03-28,,провинция Шаньдун,"nuclear power, electronics_supply_installation"
+CGN-20230106005,,2023-07-01 - 2023-11-30,"автономный округ Минамбуйи, Гуйтинг, Китай","energy_not_nuclear, electronics_supply_installation"
+CGN-202303170003-N1,2023-03-17,,Гуандун,"energy_not_nuclear, electronics_supply_installation"
+CGN-202209280001-N1,,,Гуандун,"nuclear power, electronics_supply_installation"
+CGN-20230314001,,2025-04-30,провинция Шаньдун,electronics_supply_installation
+CGN-20221130003,2022-11-30,,"Шэньчжэнь, провинция Гуандун","nuclear power, materials_supplies"
+CGN-202307110012,,,провинция Шаньдун,"energy_not_nuclear, electronics_supply_installation"
+CGN-202303140010,,,"Тибетский автономный район Хайси-Монголия, город Герму","construction, nuclear power, electronics_supply_installation"
+CGN-202301030002-N1,2023-03-01,2023-12-31,"Янцзы, провинция Гуандун, Китай","construction, nuclear power, equipment_supply_installation"
+CGN-202304270002-N1,,,"Фуцзянь, округ Чун","nuclear power, electronics_supply_installation"
+CGN-202301120002,2023-04-21,2024-12-31,Фуцзянь,construction
+CGN-20221020002,2023-02-28,,"провинция Гуандун, муниципалитет Ташань","energy_not_nuclear, electronics_supply_installation"
+CGN-20230403004,2023-05-15,2025-05-15,Гуандун,"nuclear power, electronics_supply_installation"
+CGN-20230223007,,,,
+CGN-202306130006,2023-06-13,2025-05-31,Гуандун,"nuclear power, electronics_supply_installation"
+CGN-20230630004-N1,2023-06-30,,Гуандун,electronics_supply_installation
+CGN-20230427001,,,"Шанхай, район Чжуцзы",electronics_supply_installation
+CGN-202306080012,,,,
+CNG,,,,
+CGN-202304250006,2023-05-31,2023-11-30,"Гуандун, муниципалитет Уитон",nuclear power
+CGN-20230105007,2023-04-15,"2023-03-01 (проект ""Юньнань Юнайтед"") или 2023-03-01 (проект ""Аньхойн"")","Аньхой, округ Тяньаньмэнь, Китай","energy_not_nuclear, equipment_supply_installation"
+CGN-202306140007,,,"Гуандун, Чжэцзян и Фуцзянь","electronics_supply_installation, materials_supplies, equipment_supply_installation, research_design_works, other_services"
+CGN-20230216003,,,"провинция Цзянсу, город Су","nuclear power, electronics_supply_installation"
+CGN-202302160002-N1,2023-02-16,2028-05-31,"Вэньчжоу, Чжэцзян",energy_not_nuclear
+CGN-20230210001,2023-02-10,2025-06-30,Провинция Шаньдун,nuclear power
+CGN-202305260002-N1,2023-05-26,2024-10-31,Гуандун,nuclear power
+CGN-20221116005,2023-07-31,2024-04-30,Гуандун,equipment_supply_installation
+CGN-20230510005-N1,2023-07-01,2025-12-31,Гуандун,
+CGN-202304100004,2023-04-10,,"Пекин, Китай","nuclear power, electronics_supply_installation"
+CGN-20230423002,2023-04-23,2024-08-31,"Шэньчжэнь, провинция Гуандун",nuclear power
+CGN-20230227001,,,Гуандун,"energy_not_nuclear, electronics_supply_installation"
+CGN-202212120003,,2023-04-30,,"energy_not_nuclear, materials_supplies"
+CGN-20230330007,2023-03-30,,Гуандун,nuclear power
+CGN-202304130003-N1,2023-04-13,,провинция Шаньдун,"nuclear power, electronics_supply_installation"
+CGN-20230216002,2023-04-01,2023-03-31,"Вэньчжоу, Чжэцзян",construction
+CGN-202306020007,2023-07-05,2023-12-05,"префектура Сычуань, муниципалитет Гуаньюань, округ Шин","construction, energy_not_nuclear, equipment_supply_installation"
+CGN-202305160004,2023-06-25,2023-10-31,"префектура Сычуань, муниципалитет Чжоучжоу, префектура Гуань","construction, energy_not_nuclear, equipment_supply_installation"
+CGN-20230314009,,,"Чунцин, округ Чунцин","nuclear power, electronics_supply_installation"
+CGN-202306080010,,,"Автономный район Гуанси-Шань, муниципалитет Хэбэй, муниципалитет","construction, energy_not_nuclear"
+CGN-202307100010,,2023-11-15,"Далянь, Вау, Красная река","construction, nuclear power"
+CGN-20230207005,2023-02-07,,Провинция Шаньдун,energy_not_nuclear
+CGN-202303310006,,2025-05-31,"Гуандун, округ Уидон, город Хунцзе","nuclear power, other_services"
+CGN-20230316002,2023-03-16,,Шаньдун,energy_not_nuclear
+CGN-20230608001,2022-08-01,2025-12-31,,"construction, energy_not_nuclear"
+CGN-20230526001,2023-05-26,,"Гуандун, провинция Гуандун, район Гуандун","nuclear power, electronics_supply_installation"
+CGN-20230105004,2023-02-20,2023-04-30,Юго-запад города Кананг в провинции Ганьсу,"construction, energy_not_nuclear"
+CGN-202304100011,,,Пекин,
+CGN-202304250008,2023-07-01,2026-03-31,"Фуцзянь, муниципалитет Нинде, Фуку","construction, nuclear power, electronics_supply_installation"
+CGN-20230523003,,,провинция Чжэцзян,"energy_not_nuclear, electronics_supply_installation"
+CGN-20230217003,2023-05-30,2023-06-30,"Гуандун, город Уйдун, район портовый","energy_not_nuclear, electronics_supply_installation"
+CGN-202301050011,,,"префектура Аньхой, муниципалитет Тяньаньмэнь","electronics_supply_installation, equipment_supply_installation"
+CGN-202303210006-N1,2023-03-21,2024-03-n/a,"Хуанъюань, округ Уидон, штат Вайтун","construction, nuclear power, electronics_supply_installation, materials_supplies"
+CGN-20221117003,,,,
+CGN-202301160008,,,"Тибетский автономный район, район Али, округ Тир","electronics_supply_installation, equipment_supply_installation"
+CGN-202212020003-N1,,,"Гуандун, Янцзян","electronics_supply_installation, equipment_supply_installation"
+CGN-20221019003,2023-02-01,2026-01-31,Порт-оф-Си,nuclear power
+CGN-20221220003,2022-12-20,,,
+CGN-20230420006,,,"провинция Цинхай, тибетский автономный район Хайси-Монголия, муниципалитет Деринха","energy_not_nuclear, equipment_supply_installation"
+CGN-20230310001,,,провинция Фуцзянь,electronics_supply_installation
+CGN-20221108003,,,Автономный район Гуанси-Шанг,
+CGN-202209160003-N1,2022-09-16,,Гуандун,energy_not_nuclear
+CGN-202307030009,2023-07-03,2025-06-30,"Чжэцзян, Шаньдун","nuclear power, electronics_supply_installation"
+CGN-202212010006,2023-01-12,,"Guangdong, Yangjiang, Yandong District","nuclear power, electronics_supply_installation"
+CGN-20230615005,2023-08-01,2027-12-31,Гуандун/город Цзянмен/Тайшань,"construction, energy_not_nuclear"
+CGN-20230714001,2023-09-30,2029-02-28,Фуцзянь,electronics_supply_installation
+CGN-202303030001-N1,2023-03-03,2023-01-01,провинция Шаньдун,energy_not_nuclear
+CGN-20230518001,2023-06-01,2027-05-31,провинция Шаньдун,energy_not_nuclear
+CGN-202210170004-N1,2023-06-30,,"Шэньчжэнь, провинция Гуандун","nuclear power, electronics_supply_installation"
+CGN-20221209001,,,"Янцзы, провинция Гуандун","nuclear power, electronics_supply_installation"
+CGN-20230310002,2023-05-31,2025-05-31,Гуандун,"equipment_supply_installation, other_services"
+CGN-20230106002,,,Гуандун/Янцзя,"nuclear power, electronics_supply_installation"
+CGN-202303010006,2023-04-30,2024-12-31,"Гуандун, Янцзян, округ Яндон",energy_not_nuclear
+CGN-202211210003,,,"Ляонин, Далянь, Вау","nuclear power, electronics_supply_installation"
+CGN-202303310003-N1,2023-03-31,,провинция Шаньдун,nuclear power
+CGN-20230104001-N1,2023-01-04,,провинция Шаньдун,"energy_not_nuclear, nuclear power, electronics_supply_installation"
+CGN-202305120004,2023-05-12,,"Фуцзянь, Гуанси",nuclear power
+CGN-20230105005,2023-03-01,2023-06-01,"автономный округ Чусун, округ Юньнань","energy_not_nuclear, electronics_supply_installation"
+CGN-202306020005,,,"Китайский регион Гуйлин, округ Чун, город Хуэйхун, префектура Вэньчуань, Дупи, коммуна Дуби","construction, energy_not_nuclear"
+CGN-20230104001,2023-01-04,,провинция Шаньдун,energy_not_nuclear
+CGN-202304130009,2023-04-13,2024-11-30,Гуандун,"nuclear power, electronics_supply_installation"
+CGN-202304260002,2023-07-10,2023-07-10,"префектура Юньнань, чусуньский автономный округ, префектура Осаки","energy_not_nuclear, electronics_supply_installation"
+CGN-20230427006,,,провинция Шаньдун,energy_not_nuclear
+CGN-202302130004,2024-02-28,,Цзяннань,"construction, nuclear power, electronics_supply_installation"
+CGN-20230224004,2023-06-30,,"Немонгольский автономный район, УНИТА, правый флаг Корнея","energy_not_nuclear, nuclear power"
+CGN-20230706009,2023-08-20,2023-11-25,"Синьцзян-Уйгурский автономный район и Тэгу, округ Лоупу","construction, energy_not_nuclear"
+CGN-202305180008-N1,2023-05-18,2024-07-18,"Гуандун, Шэньчжэнь",
+CGN-20230511001,2023-05-11,,провинция Шаньдун,"nuclear power, electronics_supply_installation"
+CGN-20230117009,2023-05-31,2023-10-31,"Гуандунцзян, Китай",
+CGN-20230625008,2023-06-25,,Фуцзянь,"electronics_supply_installation, equipment_supply_installation"
+CGN-202212130002,2022-01-30,2023-04-20,"Аньхой, муниципалитет Тяньаньмэнь","nuclear power, electronics_supply_installation"
+CGN-20221028002,2023-01-01,2023-08-31,"Шэньчжэнь, провинция Гуандун",electronics_supply_installation
+CGN-20221229001,,,"Шэньчжэнь, провинция Гуандун",electronics_supply_installation
+CGN-202306270006,,,"Шэньчжэнь, провинция Гуандун",nuclear power
+CGN-20230508001,,,Гуандун,"nuclear power, electronics_supply_installation, materials_supplies"
+CGN-202304110004,2023-02-28,,Гуандун,"energy_not_nuclear, electronics_supply_installation"
+CGN-202303280003-N1,2023-03-28,,"Фуцзянь, Гуандун","energy_not_nuclear, materials_supplies, other_services"
+CGN-20220928005-N1,2022-09-28,,Гуанси-Шань,"energy_not_nuclear, equipment_supply_installation"
+CGN-202211010001-N1,,,Гуандун,"nuclear power, electronics_supply_installation"
+CGN-202304030006-N1,2023-05-30,2026-05-30,Китайская Народная Республика,"nuclear power, research_design_works"
+CGN-202303010008,,,"провинция Цинхай, тибетский автономный район Хайси-Монголия, муниципалитет Деринха",energy_not_nuclear
+CGN-20230505002,2023-06-10,2023-09-30,"Юньнань, город Юйцзи, округ Яньцзян-хани","construction, nuclear power"
+CGN-20230128001,,,,
+CGN-202303090006-N1,2023-03-09,,Гуандун,nuclear power
+CGN-20230320002,2023-07-30,2023-07-30,"Чунцин, Чунцин, Китай",energy_not_nuclear
+CGN-20230717003,,,,energy_not_nuclear
+CGN-202303020004-N1,2023-03-02,2023-09-30,"Ляонин, Далянь, Вау","nuclear power, electronics_supply_installation"
+CGN-202305310006,2023-07-15,2023-11-30,"провинция Джилин, Белый город, Гранд-Ан","construction, energy_not_nuclear, electronics_supply_installation, equipment_supply_installation, other_services"
+CGN-20221117001,,,Гуандун,
+CGN-202306140012,2023-08-01,2023-05-10,"Гуйчжоу, автономный округ Минамбуйи, Гуйтинг, Китай","construction, energy_not_nuclear, electronics_supply_installation, equipment_supply_installation"
+CGN-20221205003-N1,2023-07-31,,Гуандун,"nuclear power, electronics_supply_installation"
+CGN-202212280003-N1,2022-12-28,2023-07-31,Chžc Žhan,
+CGN-202304120004,2023-08-31,2026-08-31,Тайбэй провинции Шаньдун,"nuclear power, electronics_supply_installation"
+CGN-202210110006,,,"Фуцзянь, муниципалитет Сэнди, округ Энрики","energy_not_nuclear, electronics_supply_installation, equipment_supply_installation"
+CGN-20230407006,2023-04-07,2026-05-31,Гуандун,"nuclear power, electronics_supply_installation"
+CGN-202305150004,,,"Гуандун, Юго-Восточное Прибрежье","energy_not_nuclear, research_design_works"
+CGN-202307050017,2023-08-15,2023-12-30,"Синьцзян-Уйгурский автономный район и Тэгу, округ Лоуп","construction, energy_not_nuclear, electronics_supply_installation"
+CGN-202301160005-N1,,,провинция Фуцзянь,"nuclear power, electronics_supply_installation"
+CGN-202306150002-N1,2023-06-15,,Провинция Фуцзянь,electronics_supply_installation
+CGN-20230718002,2023-10-01,2030-09-30,"Вэньчжоу, Чжэцзян",energy_not_nuclear
+CGN-202210240001-N1,,,"Джаба, Большой залив",electronics_supply_installation
+CGN-2023020004-N1,,,Фуцзянь,"energy_not_nuclear, electronics_supply_installation"
+CGN-202307130001,2023-07-13,2023-07-13,"Фуцзянь, КНР",
+CGN-20230206001,2023-02-06,2025-07-15,Шаньдун,energy_not_nuclear
+CGN-202303020011-N1,2023-02-03,2023-09-30,"Ляонин, Далянь, Вау","nuclear power, electronics_supply_installation, materials_supplies"
+CGN-202210280003-N1,2023-02-28,2025-02-28,Гуандун,"energy_not_nuclear, electronics_supply_installation"
+CGN-20230420004,2023-04-20,2027-08-31,"Гуандун, Чжэцзян","equipment_supply_installation, research_design_works"
+CGN-20230315002,2023-03-15,,"Шэньчжэнь, провинция Гуандун","nuclear power, research_design_works"
+CGN-202307040025,2023-09-20,,"Синьцзян-Уйгурский автономный округ, Баян-Монгольский автономный округ, Жуан",
+CGN-20221109005,2023-07-31,,Гуандун,"nuclear power, electronics_supply_installation, materials_supplies"
+CGN-2022128003,,,Чжэцзян,"energy_not_nuclear, materials_supplies"
+CGN-20220928001,,,Гуандун,electronics_supply_installation
+CGN-202301170010,2023-01-17,2023-07-31,"Город Хоанг, округ Уидон, провинция Гуандун, в северо-западном направлении от штата Вио","nuclear power, electronics_supply_installation"
+CGN-20230327003,2023-03-27,,Гуандун,"construction, energy_not_nuclear"
+CGN-202302210005,2023-02-21,,"Гуандун, Китай",electronics_supply_installation
+CGN-202304230008-N1,2023-09-01,2028-08-31,"Вэньчжоу, Чжэцзян","energy_not_nuclear, electronics_supply_installation, other_services"
+CGN-20230720008,2023-01-31,2025-01-31,провинция Шаньдун,"construction, nuclear power"
+CGN-20230619005-N1,2023-06-19,,провинция Шаньдун,"nuclear power, electronics_supply_installation"
+CGN-202209220007-N1,2023-07-31,2024-12-31,Гуанси,"nuclear power, electronics_supply_installation"
+CGN-20230410001,2023-08-01,2029-07-31,"Шаньдун, Китай",
+CGN-202210240007,,,Автономный район Гуанси-Шань; город Порт-о-де-Морт; муниципальный округ;,
+CGN-202211220002,,,,
+CGN-202210310002,,,Шэньчжэнь,"nuclear power, electronics_supply_installation"
+CGN-20230116002,2023-01-16,,Шаньдун,"energy_not_nuclear, materials_supplies"
+CGN-202305230007-N1,2023-05-23,,"Гуандун, Чжуншань, провинция Гуандун",nuclear power
+CGN-202212070001-N1,2023-01-15,2023-07-30,"Гуандун, город Уиттон, штат Уичжоу, район Порт-Уидун","construction, energy_not_nuclear"
+CGN-20230213002,2023-10-15,,Chžcžan,"energy_not_nuclear, electronics_supply_installation, materials_supplies"
+CGN-20230510002,2023-06-01,2030-07-31,"Нинде, провинция Фуцзянь",other_services
+CGN-202212120001,2023-05-01,2023-08-20,"Синьцзян-Уйгурский автономный район, Та-Сити, округ Торри","construction, energy_not_nuclear, nuclear power, equipment_supply_installation"
+CGN-202304120006,2023-01-31,,Шаньдун,nuclear power
+CGN-20230608002,,,"префектура Аньхой, муниципалитет Тяньаньмэнь","construction, nuclear power, equipment_supply_installation"
+CGN-202304110005,2023-06-01,2023-10-30,"Гонконгский автономный округ, Порт-о-Пренсе","construction, nuclear power"
+CGN-20230717001,2023-07-17,2025-01-30,провинция Шаньдун,nuclear power
+CGN-20221017003,,,"Шэньчжэнь, провинция Гуандун",
+CGN-20221228002,2023-02-15,2023-06-15,"Немонгольский автономный район, УНИТА, правый флаг Корнея","construction, energy_not_nuclear, equipment_supply_installation"
+CGN-20230307005,2023-03-07,,"Гуандун, порты Хиросимы IIPA и PB","nuclear power, other_services"
+CGN-202210190006-N1,2023-01-01,2023-01-01,материк Китая,
+CGN-20230110002,2023-03-06,2023-07-15,"китайская провинция Хубэй, округ Чун, в коммуне Дуби, префектуре ""Вэньчуань"" и Дупи","construction, energy_not_nuclear, equipment_supply_installation"
+CGN-20221109001,,,Материк Китай,electronics_supply_installation
+CGN-202301180001-N1,2023-09-30,,Гуандун,"energy_not_nuclear, equipment_supply_installation"
+CGN-20221125004,,2025-04-30,Гуандун,"nuclear power, electronics_supply_installation"
+CGN-20230524005,,,"Пекин, Тойота",
+CGN-202306250007-N1,2023-06-25,,"Гуандун, Чжэцзян, Шаньдун",equipment_supply_installation
+CGN-202304230004,2023-04-23,2025-05-31,Гуандун,"electronics_supply_installation, materials_supplies"
+CGN-20230608009,,,,energy_not_nuclear
+CGN-202304130005,2023-04-13,,провинция Шаньдун,electronics_supply_installation
+CGN-20230330008,2023-03-30,2025-07-31,провинция Шаньдун,energy_not_nuclear
+CGN-202301120003-N1,,,"Янцзы, провинция Гуандун, Китай","nuclear power, electronics_supply_installation, equipment_supply_installation"
+CGN-20230606002,,,"Хэйлунцзян, муниципалитет Хэйэя, 5 крупных городов","electronics_supply_installation, equipment_supply_installation"
+CGN-20220926003,2023-07-31,,Гуандун; город Уичжоу; округ Уидон,nuclear power
+CGN-202306120003,2023-06-12,2024-12-31,"Ляонин, Китай","nuclear power, electronics_supply_installation, research_design_works"
+CGN-20230520002,2023-06-30,2026-06-30,Китайская Народная Республика,"nuclear power, research_design_works"
+CGN-202304130001,2023-04-13,,"Гуанси-Шанг, город Порт-оф-Си, оборонный округ","construction, energy_not_nuclear"
+CGN-202211160003,,,провинция Шаньдун,"energy_not_nuclear, nuclear power, electronics_supply_installation, materials_supplies, equipment_supply_installation"
+CGN-20230207003,,,"Тибетский автономный район, район Али, округ Планд","construction, energy_not_nuclear, nuclear power, electronics_supply_installation"
+CGN-202307060012,,,,"energy_not_nuclear, equipment_supply_installation"
+CGN-20230530005,2023-05-30,,Гуандун,"nuclear power, energy_not_nuclear"
+CGN-20230515003-N1,,,,
+CGN-20230710007,,,Шэньчжэнь,energy_not_nuclear
+CGN-20230215002,,,"Автономный район Гуанси-Шань, муниципалитет Чинбэя",energy_not_nuclear
+CGN-20230320001,2023-03-20,2025-05-31,Гуандун,
+CGN-20230520006,,,,
+CGN-202303150005-N1,2023-03-15,2023-09-30,"Гуандун, Янцзян, округ Яндон",research_design_works
+CGN-202211030003-N1,,,"Янцзы, провинция Гуандун","nuclear power, electronics_supply_installation"
+CGN-202302280007,,,"Джилин, Белый город, Гранд-Ан, округ Лоуп","construction, energy_not_nuclear"
+CGN-20230530003,2023-05-30,,провинция Шаньдун,electronics_supply_installation
+CGN-202209290004-N2,,,,
+CGN-202212010002,2022-12-01,,Чжэцзян,"construction, energy_not_nuclear"
+CGN-202301050006,,,"Цюй, муниципалитет Юньнань, Китай",electronics_supply_installation
+CGN-202304120001,2023-04-12,,провинция Шаньдун,nuclear power
+CGN-202306120001,2023-02-28,2025-02-28,провинция Шаньдун,"construction, energy_not_nuclear"
+CGN-20230328001,,,Фуцзянь; Гуандун,"nuclear power, materials_supplies"
+CGN-202301280001-N1,2023-01-28,,провинция Шаньдун,electronics_supply_installation
+CGN-202304170003,2023-04-17,2023-10-30,"Шэньчжэнь, провинция Гуандун",nuclear power
+CGN-202307110011,2023-07-11,,провинция Чжэцзян,"energy_not_nuclear, electronics_supply_installation"
+CGN-20230406002,2023-06-30,,"провинция Чжэцзян, муниципалитет Каньшань, округ Чжоу","construction, energy_not_nuclear, electronics_supply_installation, equipment_supply_installation"
+CGN-20221207002,2023-01-01,2023-06-30,"Далянь, Ляонин","nuclear power, equipment_supply_installation"
+CGN-20230110003,,,Фуцзянь,"energy_not_nuclear, electronics_supply_installation"
+CGN-202305110002-N1,2023-05-11,,Гуандун,equipment_supply_installation
+CGN-20230529007,2023-01-01,,Гуандун,energy_not_nuclear
+CGN-20230207007-N1,2023-02-07,,Shēnxīng,"nuclear power, other_services"
+CGN-20230704007-N1,2023-07-04,2025-09-30,Гуандун,materials_supplies
+CGN-202304120002-N1,2023-04-12,2023-04-12,провинция Шаньдун,
+CGN-20230118003-N1,,2024-03-31,Гуандун,nuclear power
+CGN-202209270005-N1,2023-04-30,,"Янцзы, провинция Гуандун",
+CGN-202305240014,2023-06-20,2023-10-20,"Автономный район Гуанси-Маньчжур, муниципалитет Чжунцзян, южный порт","construction, energy_not_nuclear, electronics_supply_installation"
+CGN-20221130004,,,Фуцзянь,
+CGN-202304120001-N1,2023-04-12,,провинция Шаньдун,"nuclear power, electronics_supply_installation"
+CGN-202303020010,2023-03-02,2024-04-30,Фуцзянь,energy_not_nuclear
+CGN-20221216002,2022-12-16,,"Шэньчжэнь, провинция Гуандун",electronics_supply_installation
+CGN-20230703005,2023-08-15,2023-12-30,"Синьцзян-Уйгурский автономный район и Тэгу, округ Лоуп",energy_not_nuclear
+CGN-202303310007,,,"провинция Гуандун, муниципалитет Чхун; муниципалитет ""Сухоу""","nuclear power, electronics_supply_installation"
+CGN-20230410006,2023-04-10,,"Китай, Пекин","nuclear power, electronics_supply_installation"
+CGN-202303280008-N1,2023-03-28,,провинция Шаньдун,"electronics_supply_installation, materials_supplies"
+CGN-202207110006-N2,,,"Янцзы, провинция Гуандун","nuclear power, electronics_supply_installation"
+CGN-202303010007,,,"провинция Шаньдун, муниципалитет Тайбэя, село","energy_not_nuclear, research_design_works"
+CGN-20230428006,2023-07-31,2025-07-31,Гуандун,"electronics_supply_installation, materials_supplies, equipment_supply_installation"
+CGN-202212210004,,,"Гуандун, город Янцзы",equipment_supply_installation
+CGN-202303150012,2023-03-15,"2023-10-30 (Project 1), 2024-06-30 (Project 2)",Чжэцзян,energy_not_nuclear
+CGN-202304260004,2023-06-30,2026-02-28,Гуандун,"nuclear power, materials_supplies"
+CGN-2022092003,,,,
+CGN-20230607007-N1,2023-06-07,,Фуцзянь,electronics_supply_installation
+CGN-202307050019,,,Гуандун,energy_not_nuclear
+CGN-20230605006,,,"Немонгольский автономный округ, Силинголерский союз, Сирингхот","construction, nuclear power, electronics_supply_installation"
+CGN-20230207006,2023-02-07,2023-06-30,"Шэньчжэнь, провинция Гуандун",nuclear power
+CGN-20230118006,2023-10-31,2024-10-31,Шаньдун,"construction, energy_not_nuclear, materials_supplies"
+CGN-202304003,,,Гуандун,nuclear power
+CGN-20230510001,2023-11-30,,Гуандун,"nuclear power, electronics_supply_installation"
+CGN-20230720005,2023-07-20,,"БЗ Фуцзянь, AD Гуандун, CS浙цзян",
+CGN-202301160009,,,"Тибетский автономный район, район Али, округ Тир","energy_not_nuclear, equipment_supply_installation"
+CGN-202211150004-N1,2022-11-15,,провинция Шаньдун,"energy_not_nuclear, electronics_supply_installation"
+CGN-20230403005,2023-07-31,2084-02-29,Фуцзянь и Гуандун,nuclear power
+CGN-20221024004,2023-07-31,2025-05-30,Гуандун,electronics_supply_installation
+CGN-202301180009-N1,,,,
+CGN-202306008,,,провинция Шаньдун,"construction, nuclear power, electronics_supply_installation"
+CGN-202303240004-N2,2023-03-24,,"Шэньчжэнь, провинция Гуандун",nuclear power
+CGN-2023032001,,,"Тибетский автономный район Хайси-Монголия, муниципалитет Деринха, провинция Цинхай","energy_not_nuclear, electronics_supply_installation"
+CGN-20230227002,,,Район Чжэцзян,energy_not_nuclear
+CGN-202307030014,2023-07-03,,"провинция Гуандун, Цзянцзян, восточное Пинанге","nuclear power, electronics_supply_installation"
+CGN-20220919002-N1,,,Шаньдун,research_design_works
+CGN-202212020001-N1,2023-01-02,2026-09-30,Автономный район Гуанси-Шань,
+CGN-202305230007,,,"Чжуншань, провинция Гуандун",nuclear power
+CGN-202211140002,,,"Пекин, Тойота","energy_not_nuclear, equipment_supply_installation"
+CGN-20230510008,2023-07-20,,"Сычуань, муниципалитет Гуаньюань, округ Шин",
+CGN-202302160004,2023-02-16,2025-07-31,Гуандун,"nuclear power, electronics_supply_installation"
+CGN-20230306004,,,,
