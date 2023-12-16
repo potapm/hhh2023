@@ -1,0 +1,774 @@
+Contract date: 2023-04-11
+Contract ID: CGN-20180529004
+Subject: Первый три башни проекта морской ветровой энергетики на Кананге, Китай, и Яньцзян
+Name of the participating company: Hongong Kong
+Price: 14068380.00 RMB
+Customer company/agent: "Двойная" @luozhenggang ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Худо" @huduo ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2023-04-17
+Contract ID: CGN-20190906004
+Subject: 3-я атомная атомная электростанция Китая, Австралия, проект по обеспечении доступа к воде
+Name of the participating company: China Construction Corp.
+Price: 674850653.49 RMB
+Customer company/agent: "Льюис" @CMECCD ("Синьхуа")
+Bidding company/agent: "Джутенхуа" @zhangya\_dan ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2023-02-07
+Contract ID: CGN-201909110001-N1
+Subject: Проект «Озеленение» на площадке завода «Гуандун»
+Name of the participating company: Xiaomi Environmental Building Ltd
+Price: 29409934.91 RMB
+Customer company/agent: "Джютенхуа" @zhangya\_dan ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Ли" @cmecd ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2023-02-07
+Contract ID: CGN-20190919001-N1
+Subject: Результаты генерального контракта на строительство завода по производству чистой воды в Гуандун
+Name of the participating company: Выпускник: Муниципальный институт инженерного проектирования в Тяньцзине
+Price: 28995979.71 RMB
+Customer company/agent: "Джютенхуа" @zhangya\_dan ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Rязань" @cmecd ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2022-05-26
+Contract ID: CGN-20190927001
+Subject: Реконструкция здания китайской и китайской ядерной инженерии (пункт 2)
+Name of the participating company: Чайна Инжиниринг Лимитед
+Price: 93298028.48 RMB
+Customer company/agent: "Шоу" @xiao_yan ("Чайна Инжиниринг Лимитед")
+Bidding company/agent: "Шоу" @zhangquan ("Чайна Инжиниринг Лимитед")
+
+
+Contract date: 2021-10-13
+Contract ID: CGN-20190927002
+Subject: Реконструкция этого здания (три пункта)
+Name of the participating company: Чайна инжиниринг лимитед
+Price: 10620431583 RMB
+Customer company/agent: "Шоу" @xiao_yan ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Шоу" @zhangquan ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2023-04-17
+Contract ID: CGN-20191008002
+Subject: Результаты работ по затоплению на заводе "Чжэцзян"
+Name of the participating company: Китайская ядерная промышленность
+Price: 63763927.18 RMB
+Customer company/agent: "Чжан" @zhangcui ("Синьхуа")
+Bidding company/agent: "Джютенхуа" @zhangya_dan ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2023-04-12
+Contract ID: CGN-201911120003
+Subject: 12-я группа LOT65 и шкаф BOP
+Name of the participating company: ABB
+Price: 24295240.00 RMB
+Customer company/agent: "Ван Ши Мин" @zhiming.wang ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Худо" @huduo ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2023-04-11
+Contract ID: CGN-201911210004
+Subject: Тематический проект по изучению экологического воздействия морской среды в проекте "Гордон"
+Name of the participating company: Консалтинговая фирма "Хоккайо консалтинг"
+Price: 1,092,025.00 RMB
+Customer company/agent: "Ляомин" @liaomin ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Худо" @huduo ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-29
+Contract ID: CGN-20201028007
+Subject: Закупка оборудования для ветрогенератора ветроэнергетического комплекса "Север"
+Name of the participating company: Производитель
+Price: 227964000.00 CNY
+Customer company/agent: "Чайна энтропия" @liangfangyuan ("Чайна энтропия")
+Bidding company/agent: "Чайна инжиниринг лимитед" @dongdianhe ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-20
+Contract ID: CGN-202010310001
+Subject: 200 мегаватт-плюс для проекта EPC
+Name of the participating company: Внутренний монгольский консорциум "Инжиниринг лимитед" и "Инжиниринг электроснабжения внутренней Монголии"
+Price: $15,000,618,968
+Customer company/agent: Тишина @p177459 ("Внутренняя Монголия")
+Bidding company/agent: Чжоу @zhoujianjun ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-08
+Contract ID: CGN-20201130002-N1
+Subject: Закупка ПТСР (второе предложение)
+Name of the participating company: Сычуаньская овчарка
+Price: 10432688.00 RMB
+Customer company/agent: "Лю По" @liu.bo ("Китайская академия ядерных исследований")
+Bidding company/agent: "Лю Бо" @dingting ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-29
+Contract ID: CGN-20201204003
+Subject: Закупка оборудования ветряного блок для проекта «Сибирь» и «Чайна» (заявка на номер проекта: CGN-20201204003) для определения промежуточного значения проекта
+Name of the participating company: Jiang Kong Kong
+Price: 191328000.00 CNY
+Customer company/agent: "Лианг Фаньюань" @liangfangyuan ("China New Energy Watch Ltd.")
+Bidding company/agent: "Чайна инжиниринг лимитед" @dongdianhe ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-22
+Contract ID: CGN-202012040004
+Subject: Закупка оборудования ветряного блока для проекта"Сибирь","Концентрация","Сибирь","Концентрация","Децентрализация","Скайп"
+Name of the participating company: Smart Energy Group
+Price: 703063000.00 CNY
+Customer company/agent: "Рязанский круг" @liangfangyuan ("Чайна Хиросима")
+Bidding company/agent: "Чайна инжиниринг лимитед" @dongdianhe ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2022-01-10
+Contract ID: CGN-202012170007
+Subject: Паровые генераторы блока 5-6 проекта HLLF в Гуандуне
+Name of the participating company: Консорциум: Шанхайская электрическая атомная электроэнергетическая корпорация и Шанхайская корпорация электротехнического оборудования
+Price: 325083320.00 RMB
+Customer company/agent: "Джокингуи" @qiaojinkui ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Худо" @huduo ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-27
+Contract ID: CGN-20210108001
+Subject: 200 МВт ветровой топ-инженер
+Name of the participating company: Китай: Северо-Западный институт топографического дизайна, Китайская электрическая группа
+Price: 2900000.00 ¥
+Customer company/agent: "Ван И" @wangyijing ("Инжиниринг Ветер энтерпрайз")
+Bidding company/agent: "Пенсильван" @pengxiongbing ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-27
+Contract ID: CGN-20210108002
+Subject: 100 МВт ветряная топ-инжиниринговая установка в монастыре Сычуань
+Name of the participating company: Китайское северо-западное институт топографического дизайна и китайская электрическая группа
+Price: 2100000.00 ¥
+Customer company/agent: "Ван И" @wangyijing ("Инжиниринг Ветер энтерпрайз")
+Bidding company/agent: "Пенсильван" @pengxiongbing ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-27
+Contract ID: CGN-202101120002
+Subject: 30 МВт проектная съемка 30 МВт
+Name of the participating company: Китайский совет по электроинженерии
+Price: 110000.00 RMB
+Customer company/agent: "Ван И" @wangyijing ("China New Energy Watch Ltd.")
+Bidding company/agent: "Чжоу" @zhoujianjun ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-14
+Contract ID: CGN-20210129003
+Subject: Обычный проект HLF в Гуандуне
+Name of the participating company: Китайское агентство строительства II
+Price: 1,598,831,562.28 RMB
+Customer company/agent: "Чжан Цзинь" @cmecd ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Чайна инжиниринг лимитед" @xiehao ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-08
+Contract ID: CGN-20210204002
+Subject: Проект строительства новой системы мониторинга и предварительной фильтрации воды Янцзы
+Name of the participating company: Чайна инжиниринг 4
+Price: 114181793.49 €
+Customer company/agent: "Чайна инжиниринг лимитед" @Xuadingxuan ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Чайна инжиниринг лимитед" @Xudingxuan ("Чайна ингиниринг лимитед")
+
+
+Contract date: 2021-07-27
+Contract ID: CGN-202102040003-N1
+Subject: Приобретение оборудования, такого как электроснабжение с высоким давлением (второе предложение)
+Name of the participating company: Тайшань
+Price: $3,128,904.40
+Customer company/agent: "Лю По" @liu.bo ("Китайская академия ядерных исследований")
+
+Bidding company/agent: "Лю По" @liu.bo ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-17
+Contract ID: CGN-20210204004
+Subject: Закупка генераторного оборудования для ветровой электростанции "Сиша", вторая ветровая электростанция в регионе Сиша, Китай и Северная Корея
+Name of the participating company: Jiang Kong Kong
+Price: 179400000.00 CNY
+Customer company/agent: "China and China New Energy Entertainment" @liangfangyuan ("China and China New Energy Entertainment")
+Bidding company/agent: "Чайна инжиниринг лимитед" @dongdianhe ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-08-09
+Contract ID: CGN-20210204005
+Subject: 200 МВт закупка оборудования для ветрогенераторного оборудования для ветроэнергетического поля на электростанции "Чэнцзян"
+Name of the participating company: Jiang Kong Kong
+Price: 735840000.00 CNY
+Customer company/agent: "Синьцзян" @liangfangyuan ("Синьцзян")
+Bidding company/agent: "Чайна инжиниринг лимитед" @dongdianhe ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2023-02-07
+Contract ID: CGN-202102070015
+Subject: Проект HLF
+Name of the participating company: Китайская ядерная промышленность
+Price: 199800409.00 RMB
+Customer company/agent: "Льюис" @CMECCD ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Джютенхуа" @zhudanhua ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-08-05
+Contract ID: CGN-20210208009
+Subject: 100 МВт ветроэнергетический проект с конструкциями
+Name of the participating company: Китайская электростроительная группа China Southern Research Institute
+Price: 2,580,000.00 ¥
+Customer company/agent: "Ван И" @wangyijing ("Чайна Хиросима")
+Bidding company/agent: "Пенсильван" @pengxiongbing ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-22
+Contract ID: CGN-202102080012
+Subject: 100 МВт ветроэнергетического проекта с конструкциями
+Name of the participating company: Северо-Западный институт топографического дизайна, Китайская электрическая группа
+Price: 1,790,000.00 RMB
+Customer company/agent: "Ван И" @wangyijing ("Чайна Хиросима")
+Bidding company/agent: "Чжоу" @zhoujianjun ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-27
+Contract ID: CGN-202103010002-N2
+Subject: Закупка онлайновой системы контроля за генераторами-генераторами и смазочных материалов для моторных генераторов
+Name of the participating company: Beijing Huawei and An Monitor Technology
+Price: 3460000.00 RMB
+Customer company/agent: "Ван" @wang_qi ("Институт термотехники Сучжоу")
+Bidding company/agent: "Лю По" @liu.bo ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-02
+Contract ID: CGN-202103020003
+Subject: Проект по строительству единого офисного офисного офисного офисного коммуникационного оборудования и интеллектуальных систем в рамках проекта"Гуандун-Пайн"
+Name of the participating company: China Tech
+Price: 16714567.68 RMB
+Customer company/agent: "Лю Цзянь" @L_jian ("Чайна Хисано")
+Bidding company/agent: "Льюис" @Liuruixi ("Чайна Хисано")
+```
+
+
+Contract date: 2022-07-13
+Contract ID: CGN-20210309007-N1
+Subject: LOT101La (non-nuclear floating hydrostatic sensor)
+Name of the participating company: Википедия: Wika Automation (Сучжоу) Ltd.
+Price: 00:00:00 CNY
+Customer company/agent: "Ляодан" @liaodanmeng ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Ли Кэнпинг" @li\_xianping ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-11
+Contract ID: CGN-20210316001
+Subject: Проект AN Проект 1 "Озеленение ландшафта"
+Name of the participating company: Шэньчжэнь
+Price: 2212500.00 RMB
+Customer company/agent: "Ливанлан" @Liwanlan ("Чайна Хисано")
+Bidding company/agent: "Ли Wendong" @liwendong ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-27
+Contract ID: CGN-202103160004
+Subject: Проект 39,6 МВт децентрализованный проект ветроанализа
+Name of the participating company: China Electric Co. Ltd.
+Price: 1480000.00 RMB
+Customer company/agent: "Синьхуа" @wangyijing ("Синьхуа")
+Bidding company/agent: "Чайна инжиниринг лимитед" @zhoujianjun ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2022-07-19
+Contract ID: CGN-202103190011
+Subject: Проект Центра передовых энергетических исследований и инноваций LOT130B
+Name of the participating company: Lanka Language Computer Limited
+Price: 258000.00 CNY
+Customer company/agent: "Сун" @SunZhenYe ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Ли Кэнпинг" @li\_xianping ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-08-12
+Contract ID: CGN-202103190012
+Subject: 50,25 МВт ветряной топ-3 в Чжуншань
+Name of the participating company: China Electric Co. Ltd.
+Price: 1,580,000.00 RMB
+Customer company/agent: "Ван И" @wangyijing ("Чжоу Янь")
+Bidding company/agent: "Чжоу" @zhoujianjun ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-20
+Contract ID: CGN-202103220002
+Subject: Проект «Чжэцзян», «Зима», «Гидрометрия», типичный для летнего периода плоды
+Name of the participating company: Средиземноморский институт морского планирования провинции Чжэцзян
+Price: 1,713,206.00 RMB
+Customer company/agent: "Шэньчжэнь" @liaomin ("Лемин")
+Bidding company/agent: "Худо" @huduo ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-30
+Contract ID: CGN-202103230001
+Subject: 1-я серия проекта BJ LOT134Ga 1-я и 2-я блоки LOT134Ga
+Name of the participating company: Zong Kong Co.
+
+Price: 9966666.00 RMB
+Customer company/agent: "Ван Вэй" @wangwe ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Льюис" @liuyaqiao ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-11
+Contract ID: CGN-202103240002-N1
+Subject: Проект BJ 1, блок LOT111C (подвеска меньше 40т на АЭС) (перезагрузка)
+Name of the participating company: Cypriped Machine
+Price: 32833000.00 RMB
+Customer company/agent: "Чэнь" @chenyesa ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Льюис" @liuyaqiao ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-21
+Contract ID: CGN-202103250001-N1
+Subject: Сервисы по обеспечении безопасности персональных устройств в условиях безопасности корпуса 3 и 4 блока 2 в Порт-о-Пренсе (перенаправлено) (номер тендера: CGN-CGN)
+Name of the participating company: "Цинкусима Тихоокеанская подводная инжиниринг"
+Price: $662819080.00 USD
+Customer company/agent: "Чайна инжиниринг лимитед" @zhou.liangliang ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Чайна инжиниринг лимитед" @zhangquan ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-15
+Contract ID: CGN-202103250004-N1
+Subject: Производственный насос LOT24A (перезакупка) для проекта LF в Гуандуне
+Name of the participating company: Партнеры("Шэньян")
+Price: 59756000.00 RMB
+Customer company/agent: "Льюис" @liuyaqiao ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Чайна инжиниринг лимитед" @renjing ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-20
+Contract ID: CGN-20210325006
+Subject: Интегрированная исследовательская работа по изучению воздействия водяных фильтров на атомную электростанцию Нинде 5 и 6
+Name of the participating company: Научно-исследовательский институт гидротехники в Тяньцзине, Министерство транспорта
+Price: 1,490,000.00 RMB
+Customer company/agent: "Шэньчжэнь" @shiyu ("Шэньчжэнь")
+Bidding company/agent: "Худо" @huduo ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-21
+Contract ID: CGN-20210325008
+Subject: Обнародование результатов в трех коробках LOT88Ac
+Name of the participating company: Shanghai Electronic Suite
+Price: 4698880.00 CNY
+Customer company/agent: "Р." @luozhenggang ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Ли Кэнпинг" @li_xianping ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-22
+Contract ID: CGN-20210330001-N1
+Subject: Конденсаторная тара BOP и оборудование для нагревательных установок для производства горячей воды (перезапрос) в блоке BJ проекта 1 и 2 LOT41Ca
+Name of the participating company: Северо-восточная гора
+Price: 6960000.00 RMB
+Customer company/agent: "Льюис" @liuyaqiao ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Сюй" @xu_jia ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2023-02-07
+Contract ID: CGN-202103310007
+Subject: Проект HLF «Контент на воду» и проект «Инженерная защита от просачивания»
+Name of the participating company: Чайна инжиниринг 4
+Price: 652885000.00 RMB
+Customer company/agent: Лю Сяо @pzbzx18 («Чайна инжиниринг лимитед»)
+Bidding company/agent: Джутенхуа @zhudanhua («Чайна инжиниринг лимитед»)
+
+
+Contract date: 2021-07-20
+Contract ID: CGN-202103310008
+Subject: Блок 1-2 проекта BJ LOT66 и низконапорный шкаф (проект конфиденциальности)
+Name of the participating company: ABB ABB
+Price: 91216243.00 RMB
+Customer company/agent: "Ван Ши Мин" @zhiming.wang ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Худо" @huduo ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-06
+Contract ID: CGN-202103310009-N1
+Subject: Закупка 2 млн кВт морской ветроэнергетики в порту Гуанси (1) (перезакупка)
+Name of the participating company: Технический центр по изучению Южно-Китайского моря, Национальное управление по вопросам океана
+Price: 7380000.00 RMB
+Customer company/agent: "Ли" @LiXiaoHai ("Чайна энтропия")
+Bidding company/agent: "Чайна инжиниринг лимитед" @lhyts ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-08-11
+Contract ID: CGN-202104010005
+Subject: Закупка ветряного оборудования в рамках проекта"Цзянси"
+Name of the participating company: Перспективная энергетика
+Price: 110323500.00 CNY
+Customer company/agent: "Синьхуа" @liangfangyuan ("Синьхуа")
+Bidding company/agent: "Роливер" @luolihua ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2023-02-07
+Contract ID: CGN-20210408005
+Subject: Проект 10кВ временных электропередач
+Name of the participating company: Heaven Electric Company
+Price: 15380000.00 RMB
+Customer company/agent: "Организация Объединенных Наций" @xieshengzhao ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Организация Объединенных Наций" @zhudanhua ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2022-02-18
+Contract ID: CGN-202104080007-N1
+Subject: 1-й и 2-й группы LOT44Eb Обозначение результатов
+Name of the participating company: Jianzsu Electric Company
+Price: 2,974,235.00 RMB
+Customer company/agent: "зима" @dong.wang ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Чайна инжиниринг лимитед" @zhangquan ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2023-02-07
+Contract ID: CGN-20210409003
+Subject: 1-й проект по обслуживанию систем электроснабжения
+Name of the participating company: Цифровые технологии
+Price: 2,902,503.80 RMB
+Customer company/agent: "Джютенхуа" @zhudanhua ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Чайна инжиниринг лимитед" @liangyinwei ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2023-02-07
+Contract ID: CGN-202104130001
+Subject: Проект «Интеллектуальная земля» в Чжэцзяне (1 этап)
+Name of the participating company: China Tech
+Price: 9015046.11 RMB
+Customer company/agent: "Джютенхуа" @zhangquan ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Чайна инжиниринг лимитед" @CMECCD ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-18
+Contract ID: CGN-202104140003
+Subject: 500 МВт сельского хозяйства (лесное хозяйство, рыбный промысел) комплементарный фотоэлектрический фотоэлектрический проект EPC
+Name of the participating company: Китайский энергетический консорциум China Energy Building Group, China Institute of Electrical Design
+Price: 80334800497 RMB
+Customer company/agent: "Ядерная компания, яньян" @guanwenjie ("Ядерная компания, яньян")
+Bidding company/agent: "Чайна инжиниринг лимитед" @zhoujianjun ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-05
+Contract ID: CGN-20210415001
+Subject: Проект LOT110 (Устройство для реакторов) (номер тендера: CGN-20210415001) для определения участника проекта
+Name of the participating company: Great Wall Street Journal
+Price: 5570000.00 RMB
+Customer company/agent: "Льюис" @liuyaqiao ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Чайна инжиниринг лимитед" @chendongming ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-20
+Contract ID: CGN-20210415002
+Subject: Проект "Проект плодов"
+Name of the participating company: Национальный центр мониторинга морской среды
+Price: 818500.00 RMB
+Customer company/agent: "Шэньчжэнь" @lixuya ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Худо" @huduo ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-20
+Contract ID: CGN-202104160001
+Subject: Долгосрочное соглашение по проведению исследований в области гидротехники
+Name of the participating company: Национальное управление по делам ветеранов
+Price: 6388000.00 RMB
+Customer company/agent: "Худо" @jiangjianjun ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Худо" @huduo ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2023-02-07
+Contract ID: CGN-20210416002
+Subject: Проект инженерного обеспечения безопасности
+Name of the participating company: Shanghai Secure Services Ltd.
+Price: 64950495.00 RMB
+Customer company/agent: "Чен" @chenhaowei ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Джютенхуа" @zhudanhua ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-27
+Contract ID: CGN-202104210001-N1
+Subject: Закупка (перезакупка) в рамках проекта"Эксплуатационные ветра"на юго-востоке страны
+Name of the participating company: Шэньчжэнь
+Price: 5459423.00 RMB
+Customer company/agent: Лю Ху @liuyuxuan ("Ветроэнергетическая компания Си Цзиньпин")
+Bidding company/agent: Ли Хун @lhyts ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-11
+Contract ID: CGN-202104210002
+Subject: Покупка башни из белого ветряного ветряного ветряного балета в Синьхуа
+Name of the participating company: Гуандун
+Price: 35314786.60 CNY
+Customer company/agent: "Синьцзян" @baishaopeng ("Синьцзян")
+Bidding company/agent: "Роливер" @luolihua ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-20
+Contract ID: CGN-202104210003-N1
+Subject: Проект «Общее планирование проектного комплекса» и проект «Услуги по проектированию строительной программы» (перезаключение)
+Name of the participating company: Шэньчжэньский городской совет по исследованию архитектуры
+Price: 2950000.00 RMB
+Customer company/agent: "Синьхуа" @ouyanglingxi ("Синьхуа")
+Bidding company/agent: "Желание строить" @zhujiandong ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-08-03
+Contract ID: CGN-202104210008
+Subject: Закупка EPC в распределенном районе Бэйбэй
+Name of the participating company: China Electric Co. Ltd.
+Price: 9249484.00 CNY
+Customer company/agent: "Синьхуа" @liuyuxuan ("Синьхуа")
+Bidding company/agent: "Роливер" @luolihua ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-20
+Contract ID: CGN-202104210009-N1
+Subject: Проект BJ 1 и 2 LOT70 - установка сухого трансформатора на заводе LOT70 (номер тендера: CGN-202104210009-N1) для группы BJ по проектам 1 и 2, для определения победителей проекта, например
+Name of the participating company: Siemens Electrical Equipment Ltd.
+Price: 25996000.00 RMB
+Customer company/agent: "Ян" @yangxuelin ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Худо" @huduo ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2023-02-07
+Contract ID: CGN-20210420002
+Subject: Услуги по обеспечению безопасности в рамках проекта
+Name of the participating company: Чайна файл
+Price: 37371069.60 RMB
+Customer company/agent: Организация Объединенных Наций @CMECCD ("Чайна инжиниринг лимитед")
+Bidding company/agent: Организация Объединенных Наций @zhudanhua ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-20
+Contract ID: CGN-202104230002
+Subject: Проект долгосрочного соглашения по программе строительного строительства в области сохранения почв плодов
+Name of the participating company: Компания с ограниченной ответственностью за проектирование в Янцзей
+Price: 505000.00 RMB
+Customer company/agent: "Шэньчжэнь" @liaomin ("Лемин")
+Bidding company/agent: "Худо" @huduo ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-05
+Contract ID: CGN-202104230003
+Subject: 100 МВт ветроэнергетического проекта и 100 МВт ветроэнергетического проекта китайской и китайской сиропии. Платформа, ветряная инфраструктура в пункте A
+Name of the participating company: "Инжиниринг Цзянсу Цзинтайн"
+Price: 35526265.00 ¥
+Customer company/agent: "Пенсильван" @PengXiongbing ("Чайна Хиросима")
+Bidding company/agent: "Чайна инжиниринг лимитед" @PengXiongbing ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-05
+Contract ID: CGN-202104230004
+Subject: 100 МВт ветроэнергетического проекта и 100 МВт ветроэнергетического проекта китайской и китайской сиропии. Платформа, матрицы B
+Name of the participating company: International Electric Co. Ltd.
+Price: ¥35790066.00
+Customer company/agent: "Пенсильван" @PengXiongBing ("Чайна Хиросима")
+Bidding company/agent: "Чайна инжиниринг лимитед" @PengXiongBing ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-04
+Contract ID: CGN-202104230006
+Subject: Проект Бенянцзян, связанный с проектом по предоставлении услуг по тестированию третьей стороны в рамках проекта
+Name of the participating company: Project "Янцзы"
+Price: 827800.00 RMB
+Customer company/agent: "Ян Лун" @yanglong ("Янцзян энтерпрайз лимитед")
+Bidding company/agent: "Чайна инжиниринг лимитед" @liwendong ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-16
+Contract ID: CGN-20210425001
+Subject: Закупка оборудования для замены ветряного электрооборудования в Южном Ланкау
+Name of the participating company: Ningpooxs
+Price: 7457722.00 ¥
+Customer company/agent: "Белый" @baishaopeng ("Lango County, New Energy Ltd.")
+Bidding company/agent: "Пенсильван" @pengxiongbing ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-20
+Contract ID: CGN-20210425002
+Subject: Проект BJ LOT68A NI и система бесперебойного питания
+Name of the participating company: Cowa Data Company
+Price: 15036090.00 RMB
+Customer company/agent: "Худо" @zhiming.wang ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Чайна инжиниринг лимитед" @Hudo ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-15
+Contract ID: CGN-202104250006
+Subject: 110 кВ ветряная электростанция 110 кВ в рамках генерального подрядного проекта EPC
+Name of the participating company: N/A
+Price: 8975000.00 RMB
+Customer company/agent: "Чайна" @guanwenjie ("Чайна")
+Bidding company/agent: "Чайна инжиниринг лимитед" @lhyts ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2023-02-07
+Contract ID: CGN-202104250009
+Subject: Контейнерный шкаф неядерного класса на заводе LOT88C для блока 1-2 проекта AN и блока 1-2 проекта BJ
+Name of the participating company: China Super Electric Company
+Price: 2030177.58 RMB
+Customer company/agent: "Джютенхуа" @zhudanhua ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Лю" @liubin518 ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2022-07-12
+Contract ID: CGN-202104250010
+Subject: Кабельное приложение к блоку LOT87B K3 для блока 1 и 2 проекта"Тайпинс"
+Name of the participating company: Шэньчжэнь
+Price: 7580225.00 CNY
+Customer company/agent: "Ли Кэнпинг" @li_xianping ("Чайна инжиниринг лимитед")
+Bidding company/agent: "R." @luozhenggang ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-17
+Contract ID: CGN-20210426001
+Subject: Ветроэнергетический проект «Хинсикал» для борьбы с нищетой в рамках второго проекта по строительству дорог, платформ, ветряных машин и коробок (показатель)
+Name of the participating company: Инициали «Гуанси Юнчэн»
+Price: 30959551.00 ¥
+Customer company/agent: "郭蔷" @guoqiang-sedc ("China and China New Energy Entertainment")
+Bidding company/agent: "Пенсильван" @pengxiongbing ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2023-02-07
+Contract ID: CGN-20210426007
+Subject: Профессиональное механическое обследование во время строительства проекта BJ
+Name of the participating company: Шэньчжэнь
+Price: 630000.00 RMB
+Customer company/agent: "Лю" @lx ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Джютенхуа" @zhudanhua ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-10-29
+Contract ID: CGN-202104270004-N2
+Subject: Ветрометрическая башня EPC (вторая повторная тендерная заявка)
+Name of the participating company: Китайская электростроительная группа China Southern Research Institute
+Price: 6980000.00 CNY
+Customer company/agent: "Чайна" @guoqiang-sedc ("Чайна")
+Bidding company/agent: "Роливер" @dongdianhe ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-20
+Contract ID: CGN-202104270006
+Subject: Блок 1-2 проекта BJ LOT87B (K3 кабельное приложение)
+Name of the participating company: China High Technologies
+Price: 436119.00 RMB
+Customer company/agent: "Чжао Чжи" @zhao.zhisheng ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Худо" @huduo ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-20
+Contract ID: CGN-20210427007
+Subject: Project BJ LOT87C (K1 cable application)
+Name of the participating company: Shēnzhèn
+Price: 5263800.00 RMB
+Customer company/agent: "Чжао Чжи" @zhao.zhisheng ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Худо" @huduo ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-06
+Contract ID: CGN-20210428001-N1
+Subject: Результаты проекта по охране окружающей среды, водоохранной инженерии (перезакупка) на электрической площадке в префектуре Хиросима
+Name of the participating company: компания с ограниченной ответственностью за строительство в провинции Энго
+Price: 7752692.00 RMB
+Customer company/agent: "Синьхуа" @guanwenjie ("Синьхуа")
+Bidding company/agent: "Ли Хун" @lhyts ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-06
+Contract ID: CGN-20210428003
+Subject: 100 МВт ветряной электроэнергии и проект комбинированной и подъемной электростанции в рамках проекта 100 МВт ветряной электроэнергии в центральной части Китая
+Name of the participating company: Контролер @guoliangliang ("Чайна Хиросима")
+Price: 49717640.00 CNY
+Customer company/agent: Нет
+Bidding company/agent: "Чайна инжиниринг лимитед" @dongdianhe ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-22
+Contract ID: CGN-20210428005
+Subject: Закупка оборудования для замены ветряного электрооборудования в 2-м турне в Хинси (первый пункт: импровизация)
+Name of the participating company: Электротехника
+Price: 7849900.00 ¥
+Customer company/agent: "Пенсильван" @pengxiongbing ("Чайна Хиросима")
+Bidding company/agent: "Чайна инжиниринг лимитед" @pengxiongbing ("Чайна инжиниринг лимитед")
+
+Contract date: 2021-06-22
+Contract ID: CGN-20210428005
+Subject: Закупка оборудования для замены ветряного оборудования для проекта"Оксуса-2"(первый пункт: коробка для северного города)
+Name of the participating company: Электротехника
+Price: 7849900.00 ¥
+Customer company/agent: "Пенсильван" @pengxiongbing ("Чайна Хиросима")
+Η Bidding company/agent: "Чайна инжиниринг лимитед" @pengxiongbing ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-29
+Contract ID: CGN-202104280006
+Subject: Закупка оборудования для замены ветряного электрооборудования в 2-м сезоне в 2007 году (пункт 2: Lance)
+Name of the participating company: Электротехника
+Price: 6120000.00 ¥
+Customer company/agent: "Белый" @baishaopeng ("China and China New Energy Entertainment")
+Bidding company/agent: "Пенсильван" @pengxiongbing ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-22
+Contract ID: CGN-202104280007
+Subject: Устройство для разработки и приобретения специального инструмента для системы измерения на атомных электростанциях
+Name of the participating company: Jiang Jian Jian Jian Jian Lou Song
+Price: 11178266.00 RMB
+Customer company/agent: "Кристалл" @jiaojiongjing ("Китайская академия ядерных исследований")
+Bidding company/agent: "Лю Цзянь" @L_jian ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2023-02-07
+Contract ID: CGN-20210428009
+Subject: Проект строительства подсистемы измерения проекта HLF
+Name of the participating company: Инжиниринг Чжэнчжоу
+Price: 1,438,500.00 RMB
+Customer company/agent: "Организация Объединенных Наций" @xieshengzhao ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Организация Объединенных Наций" @zhudanhua ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2023-02-07
+Contract ID: CGN-202104280010
+Subject: Проект мониторинга третьей стороны проекта HLF
+Name of the participating company: Инжиниринг Чжэнчжоу
+Price: 6528635.00 RMB
+Customer company/agent: "Организация Объединенных Наций" @xieshengzhao ("Чайна инжиниринг лимитед")
+Bidding company/agent: "Организация Объединенных Наций" @zhudanhua ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-06
+Contract ID: CGN-202104280011
+Subject: Проект ветряных турбин на острове Янцзы и Кананге
+Name of the participating company: Sandong Terek Electric Engineering Ltd.
+Price: 57966506.68 CNY
+Customer company/agent: "Lango County, New Energy Ltd." @guoliangliang ("China and China New Energy Sound")
+Bidding company/agent: "(Чайна инжиниринг лимитед)" @dongdianhe ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-07-28
+Contract ID: CGN-20210429001
+Subject: Проект строительства жилых помещений в комплексе «Гуандун-тай-Пин», проект «Проект строительства жилого комплекса»
+Name of the participating company: ZTE Group
+Price: 40211168.70 RMB
+Customer company/agent: "Лю Рейкси" @Liuruixi ("Чайна Хисано")
+Bidding company/agent: "Лю Цзянь" @L_jian ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-16
+Contract ID: CGN-20210429002
+Subject: Закупка башни с башнями ветряных турбин (первый пункт: закупка башни в северном городе)
+Name of the participating company: Проект: Закупка башни"Ветряная башня","Ветерная башня","Ветерная башня","Ветерная башня","Синьхуа","Синьцзян"(первый пункт: закупка башняной башни в Северном городе)
+Price: 5397273.56 RMB
+Customer company/agent: "Гуандун" @baishaopeng ("Чайна энтропия")
+Bidding company/agent: "Чайна инжиниринг лимитед" @zhoujianjun ("Чайна инжиниринг лимитед")
+
+
+Contract date: 2021-06-22
+Contract ID: CGN-20210429003
+Subject: Закупка башни с башнями ветряных турбин (второй пункт: Закупка башни «Окс-2»)
+Name of the participating company: Zong Island
+Price: $460300942
+Customer company/agent: "Китайская компания по производству новых энергетических источников" @baishaopeng ("Китайская компания по производству новых энергетических источников")
+Bidding company/agent: "Чайна инжиниринг лимитед" @zhoujianjun ("Чайна инжиниринг лимитед")

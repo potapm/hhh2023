@@ -1,0 +1,394 @@
+	
+0	
+contract_id	"CGN-20230531"
+start_date	"2023-08-15"
+deadline_date	"2023-12-31"
+geo_place	"провинция Хубэй, Хуангань округ Чун"
+tags	
+0	"construction"
+1	
+contract_id	"CGN-202211140006-N2"
+start_date	null
+deadline_date	null
+geo_place	null
+tags	[]
+2	
+contract_id	"CGN-202301310002"
+start_date	null
+deadline_date	null
+geo_place	"Китайская Народная Республика, Гуанчжоу, Лутэнь, городской округ, Шаньси"
+tags	
+0	"nuclear power"
+3	
+contract_id	"CGN-202305150006-N1"
+start_date	null
+deadline_date	null
+geo_place	"Янцзы, Гуандун, Китай"
+tags	
+0	"nuclear power"
+1	"electronics_supply_installation"
+4	
+contract_id	"CGN-202304240004-N2"
+start_date	null
+deadline_date	null
+geo_place	"Хуанъюань, округ Уидон, штат Вайтун"
+tags	
+0	"nuclear power"
+1	"electronics_supply_installation"
+5	
+contract_id	"CGN-202204240004-N2"
+start_date	null
+deadline_date	null
+geo_place	"Хиросима, Япония"
+tags	
+0	"construction"
+1	"nuclear power"
+6	
+contract_id	"CGN-20230731_12345"
+start_date	null
+deadline_date	null
+geo_place	"Шэньчжэнь, Гуандун, Китай"
+tags	[]
+7	
+contract_id	"CGN-202211110003-N1"
+start_date	"2024-03-28"
+deadline_date	"2024-03-28"
+geo_place	"Гуанси, Гуандун, Чжэцзян"
+tags	
+0	"construction"
+1	"energy_not_nuclear"
+2	"nuclear power"
+3	"materials_supplies"
+8	
+contract_id	"CGN-202211230004-N1"
+start_date	null
+deadline_date	null
+geo_place	"Гуандун, Хуанъюань, округ Уидон, штат Вайтун"
+tags	
+0	"construction"
+1	"nuclear power"
+2	"electronics_supply_installation"
+9	
+contract_id	"CGN-202210280003"
+start_date	null
+deadline_date	null
+geo_place	"Guangdong"
+tags	
+0	"construction"
+1	"equipment_supply_installation"
+10	
+contract_id	"CGN-20230620002"
+start_date	null
+deadline_date	null
+geo_place	"Шаньдун, Китай"
+tags	
+0	"electronics_supply_installation"
+11	
+contract_id	"CGN-202301180009"
+start_date	null
+deadline_date	null
+geo_place	"Тибетский автономный район, район Али, округ Тир"
+tags	
+0	"construction"
+1	"energy_not_nuclear"
+2	"materials_supplies"
+3	"equipment_supply_installation"
+12	
+contract_id	"CGN-202210240004-N2"
+start_date	null
+deadline_date	null
+geo_place	'провинция Хубэй, в коммуне Дуби, префектура,"Вэньчуань"и Дупи'
+tags	[]
+13	
+contract_id	"CGN-20230116003"
+start_date	null
+deadline_date	null
+geo_place	"Шаньдун, Китай"
+tags	
+0	"nuclear power"
+1	"electronics_supply_installation"
+14	
+contract_id	"CGN-CGN"
+start_date	null
+deadline_date	null
+geo_place	null
+tags	
+0	"construction"
+15	
+contract_id	"CGN-202306270009-N1"
+start_date	"2023-07-31"
+deadline_date	null
+geo_place	"Шаньдун, Китай"
+tags	[]
+16	
+contract_id	"CGN-20230307003"
+start_date	"2023-11-30"
+deadline_date	null
+geo_place	"Янцзы, провинция Гуандун"
+tags	
+0	"nuclear power"
+1	"equipment_supply_installation"
+17	
+contract_id	"CGN-20221226006"
+start_date	null
+deadline_date	null
+geo_place	"Хиросима, округ Хуанган, Хубэй"
+tags	[]
+18	
+contract_id	"CGN-202211160004-N1"
+start_date	null
+deadline_date	null
+geo_place	"провинция Шаньдун"
+tags	
+0	"nuclear power"
+19	
+contract_id	"CGN-202303150014"
+start_date	"2023-04-12"
+deadline_date	null
+geo_place	"Шэньчжэнь"
+tags	
+0	"construction"
+1	"nuclear power"
+2	"electronics_supply_installation"
+20	
+contract_id	"CGN-202307001-N1"
+start_date	null
+deadline_date	null
+geo_place	"Фуцзянь, Гуандун, Чжэцзян, Шаньдун"
+tags	[]
+21	
+contract_id	"CGN-20221021001"
+start_date	null
+deadline_date	null
+geo_place	null
+tags	
+0	"nuclear power"
+1	"electronics_supply_installation"
+22	
+contract_id	"CGN-202212160004-N2"
+start_date	null
+deadline_date	null
+geo_place	"China, Hubei Province, Chongqing District, Wuhan Prefecture, Wan County, Dujiang Village, Dupu Township, Wenchuan, Tianmen Mountain, Dujiang Village, Dujiang Village, Guizhou, Xiaogan County, Xiaolan Town, Wannan, Wufeng County, Hainan Island, Huaxi Town, Yuzhong, Shazixi County, Shennongjia Forestry Bureau, Yibin City, Mianyang City, Wulong County, Emeishan Mountains, Chengdu Plateau, Ya'an Prefecture, Ziyang City, Luzhi County, Qionglai County, Nanchong City, Deyang City, Meishan County, Bazhong City, Neijiang City, Leshan City, Suining City, Mianyang City, Pengshou County, Pengshui County, Wushan County, Liangping County, Jintao County, Guang'an City, Wudang Shan County, Shizhu County, Daying County, Guangyuan City, Anzhong County, Maoxian County, Yibin City, Longquanyi County, Baoxi County, Beibei District, Yibin City, Pengshan County, Yibin City, Guangnan County, Guoyu County, Zigong City, Zhangjiashan County, Zitong County, Mianyang City, Qingchuan County, Meishan City, Guanghan City, Xikou County, Jinniu County, Yiliang County, Ziyang City, Mianyang City, Qu County, Zigong City, Meishan City, Guang'an City, Wenxien County, Wuhou District, Guanghan City, Xuy"
+tags	[]
+23	
+contract_id	"CGN-20230329008"
+start_date	"2025-10-31"
+deadline_date	null
+geo_place	"China, Shandong Province"
+tags	
+0	"electronics_supply_installation"
+24	
+contract_id	"CGN-20230609001-N1"
+start_date	null
+deadline_date	null
+geo_place	"Шаньдун, КНR"
+tags	
+0	"nuclear power"
+1	"electronics_supply_installation"
+25	
+contract_id	"CGN-20221115003"
+start_date	null
+deadline_date	null
+geo_place	"Гонконгский автономный округ"
+tags	
+0	"equipment_supply_installation"
+26	
+contract_id	"CGN-20230522004"
+start_date	null
+deadline_date	null
+geo_place	"Хунань, муниципалитет Чжоу"
+tags	[]
+27	
+contract_id	"CGN-202212020007"
+start_date	null
+deadline_date	null
+geo_place	"Янцзы, Гуандун, Китай"
+tags	
+0	"construction"
+1	"energy_not_nuclear"
+2	"nuclear power"
+3	"electronics_supply_installation"
+4	"materials_supplies"
+28	
+contract_id	"CGN-202211140008"
+start_date	null
+deadline_date	null
+geo_place	null
+tags	
+0	"construction"
+1	"nuclear power"
+29	
+contract_id	"CGN-20221024002"
+start_date	null
+deadline_date	null
+geo_place	"Шаньдун, Китай"
+tags	[]
+30	
+contract_id	"CGN-202211140005-N1"
+start_date	null
+deadline_date	"2025-09-15"
+geo_place	"Гуандун, Китай"
+tags	
+0	"construction"
+1	"electronics_supply_installation"
+31	
+contract_id	"CGN-202305170003"
+start_date	null
+deadline_date	null
+geo_place	"Ляонин"
+tags	
+0	"equipment_supply_installation"
+32	
+contract_id	"CGN-202209280003-N1"
+start_date	"2022-09-28"
+deadline_date	null
+geo_place	"Автономный район Гуанси-Шань, Китайская Народная Республика"
+tags	
+0	"nuclear power"
+1	"electronics_supply_installation"
+33	
+contract_id	"CGN-202211030001-N1"
+start_date	null
+deadline_date	null
+geo_place	"Шаньдун, округ Хуанъюань, Вайтун"
+tags	
+0	"nuclear power"
+1	"equipment_supply_installation"
+34	
+contract_id	"CGN-20230406009"
+start_date	null
+deadline_date	null
+geo_place	"провинция Шаньдун"
+tags	
+0	"construction"
+1	"nuclear power"
+2	"electronics_supply_installation"
+3	"equipment_supply_installation"
+35	
+contract_id	"CGN-202208230002-N1"
+start_date	null
+deadline_date	null
+geo_place	"Синьцзян-Уйгурский автономный район, Алтайский район, Гимуна"
+tags	
+0	"construction"
+1	"electronics_supply_installation"
+36	
+contract_id	"CGN-20220110002"
+start_date	null
+deadline_date	null
+geo_place	"Фуцзянь"
+tags	
+0	"nuclear power"
+1	"equipment_supply_installation"
+37	
+contract_id	"CGN-20221207003-N1"
+start_date	null
+deadline_date	null
+geo_place	"провинция Цзянсу; муниципалитет Су; округ Гусу"
+tags	[]
+38	
+contract_id	"CGN-20221109005-N2"
+start_date	null
+deadline_date	null
+geo_place	"Гуандун"
+tags	
+0	"nuclear power"
+1	"electronics_supply_installation"
+39	
+contract_id	"CGN-202305040004-N2"
+start_date	"2023-05-10"
+deadline_date	null
+geo_place	"Порт-о-Пренсе, Китай"
+tags	
+0	"equipment_supply_installation"
+40	
+contract_id	"CGN-20230627009"
+start_date	null
+deadline_date	null
+geo_place	"Шаньдун, Китай"
+tags	
+0	"materials_supplies"
+1	"equipment_supply_installation"
+2	"research_design_works"
+41	
+contract_id	"CGN-20220927005"
+start_date	"2023-04-30"
+deadline_date	null
+geo_place	"Янцзы, Гуандун, Китай"
+tags	
+0	"construction"
+42	
+contract_id	"CGN-202307110004"
+start_date	"2023-08-09"
+deadline_date	null
+geo_place	"Гуандун, Китай"
+tags	
+0	"construction"
+1	"energy_not_nuclear"
+2	"electronics_supply_installation"
+43	
+contract_id	"CGN-20230627005"
+start_date	"2023-07-31"
+deadline_date	null
+geo_place	"Пекин, Тойота"
+tags	[]
+44	
+contract_id	"CGN-20230329003"
+start_date	null
+deadline_date	null
+geo_place	"Шаньдун"
+tags	
+0	"nuclear power"
+45	
+contract_id	"CGN-202302020001-N1"
+start_date	null
+deadline_date	null
+geo_place	null
+tags	[]
+46	
+contract_id	"CGN-202210110004-N2"
+start_date	null
+deadline_date	null
+geo_place	"Китайская Народная Республика, Хубэй, Чун, округ Вэньчуань"
+tags	
+0	"construction"
+47	
+contract_id	"CGN-202211240004-N1"
+start_date	null
+deadline_date	null
+geo_place	"Гуандун"
+tags	[]
+48	
+contract_id	"CGN-20230118005"
+start_date	"2023-01-18"
+deadline_date	null
+geo_place	"Шаньдун"
+tags	
+0	"construction"
+1	"nuclear power"
+2	"electronics_supply_installation"
+49	
+contract_id	"CGN-202307310002"
+start_date	null
+deadline_date	"2023-12-30"
+geo_place	"китайская провинция Хубэй, район около горы Тяньмэнь"
+tags	
+0	"construction"
+1	"energy_not_nuclear"
+50	
+contract_id	"CGN-20230310004"
+start_date	null
+deadline_date	null
+geo_place	"Фуцзянь, Хубэй, округ Чун"
+tags	
+0	"construction"
+1	"nuclear power"
+2	"electronics_supply_installation"
+3	"materials_supplies"
+4	"equipment_supply_installation"
+51	
+contract_id	"CGN-20230531003"
+start_date	"2023-08-01"
+deadline_date	"2023-08-01"
+geo_place	"Автономный район Гуанси-Маньчжур, муниципалитет Чжунцзян, южный порт"
+tags	[]

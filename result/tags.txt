@@ -1,0 +1,7 @@
+0	"energy_not_nuclear"
+1	"equipment_supply_installation"
+2	"materials_supplies"
+3	"research_design_works"
+4	"construction"
+5	"nuclear power"
+6	"electronics_supply_installation"
