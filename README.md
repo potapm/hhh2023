@@ -11,3 +11,5 @@ API.ipynb API для загрузки файлов
 atomic-heart.zip архив фронта на ue.js Quasar
 
 result папка с результатами работы модели
+
+Digital_Rover_Росатом_compressed.pdf презентация
